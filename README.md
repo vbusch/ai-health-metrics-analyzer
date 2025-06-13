@@ -30,7 +30,9 @@ A Python-based tool for analyzing personal health data from Garmin devices and C
 ## Usage
 
 Run the analyzer using the following commands: 
+`python -m venv .venv`
 `source .venv/bin/activate`
+`pip install -r requirements.txt`
 `python main.py`
 
 
